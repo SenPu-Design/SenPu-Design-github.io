@@ -1,0 +1,393 @@
+
+/*============ Very large Device ===========*/
+@media (min-width:1441px) and (max-width:1919px){
+}
+/*============ Desktop Device ===========*/
+@media (min-width:1366px) and (max-width:1440px){
+    .port_text h2 a {
+        font-size: 45px;
+    }
+    .team_thumb:before {
+        top: 66%;
+    }
+}
+/*============ Laptop Device ===========*/
+@media (min-width:1024px) and (max-width:1365px){
+    h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{
+        font-weight: 500;
+    }
+    .main_menu_area{
+        padding: 0 20px;
+    }
+    .inner_main_nav_area >ul >li >a {
+        margin: 30px 11px 30px;
+        font-size: 16px;
+    }
+    .inner_slider_area {
+        height: 770px;
+    }
+    .inner_slider_content h2,.inner_slider_content h3 {
+        font-size: 50px;
+        font-weight: 700;
+    }
+    .donate_btn_header a {
+        display: none;
+    }
+    .single_about_img img{
+        width: 100%;
+    }
+    .main_sevice h2 {
+        font-size: 50px;
+    }
+    .video_text {
+        padding: 60px 0;
+    }
+    .main_team:hover .team_thumb:before{
+        top: 30%;
+    }
+    .inner_video_area h3 {
+        font-size: 57px;
+    }
+    .inner_video_area.text-center {
+        top: 26%;
+        left: 24%;
+    }
+    .video_text h2 {
+        line-height: 57px;
+        font-size: 42px;
+    }
+    .port_text h2 a {
+        font-size: 35px;
+    }
+    .port_text {
+        bottom: -152px;
+    }
+    .brand_active {
+        margin: 0;
+    }
+    .ycalender_inner td {
+        padding: 10px 10px;
+    }
+    .ycalender_inner th {
+        padding: 10px 11px;
+    }
+}
+
+/*============= Tablet Large device ===============*/
+@media (min-width:992px) and (max-width:1023px){
+    h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{
+        font-weight: 500;
+    }
+    .main_menu_area{
+        padding: 0 20px;
+    }
+    .inner_main_nav_area >ul >li >a {
+        margin: 30px 11px 30px;
+        font-size: 16px;
+    }
+    .inner_slider_area {
+        height: 770px;
+    }
+    .inner_slider_content h2,.inner_slider_content h3 {
+        font-size: 50px;
+        font-weight: 700;
+    }
+    .donate_btn_header a {
+        display: none;
+    }
+    .single_about_img img{
+        width: 100%;
+    }
+    .main_sevice h2 {
+        font-size: 50px;
+    }
+    .video_text {
+        padding: 60px 0;
+    }
+    .inner_video_area h3 {
+        font-size: 57px;
+    }
+    .inner_video_area.text-center {
+        top: 26%;
+        left: 24%;
+    }
+    .video_text h2 {
+        line-height: 57px;
+        font-size: 42px;
+    }
+    .main_team:hover .team_thumb:before{
+        top: 30%;
+    }
+    .port_text h2 a {
+        font-size: 35px;
+    }
+    .port_text {
+        bottom: -152px;
+    }
+    .brand_active {
+        margin: 0;
+    }
+    .ycalender_inner td {
+        padding: 10px 10px;
+    }
+    .ycalender_inner th {
+        padding: 10px 11px;
+    }
+}
+/*============= Tablet device ===============*/
+@media (min-width:768px) and (max-width:991px){
+    h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{
+        font-weight: 500;
+    }
+    .mobile_logo_area{
+        display: block !important;
+        padding: 10px 0;
+    }
+     /* main nav area css */
+     .main_menu_area{
+        display: none;
+    }
+     /* slider area css */
+     .inner_slider_area {
+        height: 500px;
+    }
+    .inner_slider_content h2, .inner_slider_content h3 {
+        font-size: 40px;
+    }
+    .inner_breadcum_area {
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+    .inner_slider_content {
+        text-align: center;
+        margin: 0;
+        width: 100%;
+    }
+    .inner_slider_content p {
+        width: 100%;
+    }
+    .single_about_img img{
+        width: 100%;
+    }
+    .about_header_title h2 {
+        font-size: 32px;
+    }
+    .service_area {
+        padding: 65px 0 155px;
+    }
+    .cal_title h2 {
+        font-size: 42px;
+    }
+    .video_text {
+        padding: 195px 0;
+    }
+    .video_text h2 {
+        line-height: 35px;
+        font-size: 30px;
+    }
+    .video_text {
+        padding: 38px 0 68px;
+    }
+    .video_btn a {
+        font-size: 17px;
+    }
+    .inner_video_area h3 {
+        font-size: 44px;
+    }
+    .inner_video_area.text-center {
+        top: 35%;
+        left: 18%;
+    }
+    .section_title_area h2 {
+        font-size: 45px;
+    }
+    .testimonial_area {
+        padding: 50px 0 145px;
+    }
+    .single_testimonial p {
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .pricing_title p {
+        width: 80%;
+    }
+    .inner_shop_content h3 a {
+        font-size: 22px;
+    }
+    .brand_area {
+        padding: 50px 0 50px;
+    }
+    .brand_active {
+        margin: 0;
+    }
+    .pricing_title h2 {
+        font-size: 60px;
+    }
+    .ycalender_inner th {
+        padding: 10px 15px;
+    }
+    .footer_content {
+        display: block;
+    }
+    #scrollUp {
+        bottom: 53px;
+    }
+}
+
+/*============= mobile large device ===============*/
+@media (max-width:767px){
+    h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{
+        font-weight: 500;
+        font-size: 16px;
+    }
+    .mobile_logo_area{
+        display: block !important;
+        padding: 10px 0;
+    }
+     /* main nav area css */
+     .main_menu_area{
+        display: none;
+    }
+     /* slider area css */
+     .inner_slider_area {
+        height: 500px;
+    }
+    .inner_breadcum_area {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .inner_slider_content h2, .inner_slider_content h3 {
+        font-size: 40px;
+    }
+    .inner_slider_content {
+        text-align: center;
+        margin-left: 0;
+    }
+    .inner_slider_content p, .pricing_title p {
+        width: 100%;
+    }
+    .about_header_title h2, .cal_title h2, .video_text h2 {
+        font-size: 30px;
+    }
+    .section_title h2, .pricing_title h2 {
+        font-size: 40px;
+    }
+    .section_title p {
+        width: 100%;
+        margin: 0 auto 40px;
+    }
+    .service_area {
+        padding: 65px 0 155px;
+        text-align: center;
+    }
+    .video_text {
+        padding: 60px 0;
+        text-align: center;
+    }
+    .shedul_weak {
+        display: block;
+        margin-bottom: 10px;
+    }
+    .single_weak {
+        padding: 31px 0px 15px 0px;
+    }
+    .main_video_area {
+        height: 261px;
+    }
+    .pricing_area {
+        padding: 120px 0 50px;
+    }
+    .testimonial_area {
+        padding: 50px 0 145px;
+    }
+    .single_testimonial p {
+        font-size: 35px;
+    }
+    .cal_to_action {
+        text-align: center;
+    }
+    .brand_active {
+        margin: 0;
+    }
+    .witr_bar_main {
+        margin: 5px 0 15px;
+    }
+    .copyright_menu {
+        text-align: right;
+    }
+}
+/*============= mobile device ===============*/
+@media (min-width:320px) and (max-width:480px){
+    .inner_slider_content h2, .inner_slider_content h3 {
+        font-size: 18px;
+    }
+    .inner_slider_content,.inner_slider_content p{
+        width: 100%;
+    }
+    .gy_about_thumb {
+        display: block;
+    }
+    .main_sevice h2 {
+        font-size: 49px;
+    }
+    .about_header_title h4 {
+        margin-top: 25px;
+    }
+    .video_btn a {
+        padding: 16px 13px 16px 13px;
+    }
+    .inner_video_area h3 {
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    .inner_video_area.text-center {
+        top: 30%;
+    }
+    .single_testimonial p {
+        margin: 25px 0;
+        line-height: 45px;
+    }
+    .section_title_area h2 {
+        font-size: 35px;
+    }
+    .footer_widget h4 {
+        margin-top: 15px;
+    }
+    .port_text h2 a {
+        font-size: 35px;
+    }
+    .footer_nav ul li::before {
+        left: 33%;
+    }
+    .ycalender_inner td {
+        padding: 10px 8px;
+    }
+    .apartment_text h4 {
+        font-size: 26px;
+    }
+    .apartment_area {
+        padding: 60px 11px 60px;
+    }
+    .ycalender_inner th {
+        padding: 10px 12px;
+    }
+    .copyright_menu {
+        margin: 0 0px 0;
+        text-align: center;
+    }
+    .team_title h2 {
+        font-size: 22px;
+    }
+    .footer_area, .copyright_title {
+        text-align: center;
+    }
+    .single_about_img img{
+        width: 100%;
+    }
+    .footer_socail_icons, .about_area, .inner_project_text_area  {
+        text-align: center;
+    }
+    #scrollUp {
+        bottom: 78px;
+    }
+}
